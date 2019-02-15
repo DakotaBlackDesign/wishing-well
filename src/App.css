@@ -42,3 +42,25 @@
   cursor: pointer;
   display: block;
 }
+.wisdom {
+  //display: block;
+  //float: left;
+  //clear: left;
+  //width: 60px;
+}
+.listAuthor{
+  font-size: calc(1px + 1.5vmin);
+}
+
+.list{
+  position: fixed;
+  text-align: left;
+  justify-content: left;
+  bottom: 20px;
+  left: 20px;
+  font-size: calc(2px + 2vmin);
+}
+
+.author {
+    font-size: calc(2px + 2vmin);
+}

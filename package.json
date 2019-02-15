@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "emoji-replace": "^1.0.1",
+    "emoji.json": "^11.0.1",
     "http-proxy-middleware": "^0.19.1",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
